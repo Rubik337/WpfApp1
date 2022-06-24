@@ -39,7 +39,7 @@ namespace ClassLibrary1
             }
 
                // anektod
-               // 
+               // vhodit
         }
     }
 }
